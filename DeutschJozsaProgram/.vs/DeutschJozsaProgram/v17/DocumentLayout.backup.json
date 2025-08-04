@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatih\\Desktop\\Apps\\Quantum\\DeutschJozsaProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A079DF78-8982-4A01-9068-42E5A6A44598}|DeutschJozsaProgram.csproj|c:\\users\\fatih\\desktop\\apps\\quantum\\deutschjozsaprogram\\program.qs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A079DF78-8982-4A01-9068-42E5A6A44598}|DeutschJozsaProgram.csproj|solutionrelative:program.qs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.qs",
+              "DocumentMoniker": "C:\\Users\\fatih\\Desktop\\Apps\\Quantum\\DeutschJozsaProgram\\Program.qs",
+              "RelativeDocumentMoniker": "Program.qs",
+              "ToolTip": "C:\\Users\\fatih\\Desktop\\Apps\\Quantum\\DeutschJozsaProgram\\Program.qs",
+              "RelativeToolTip": "Program.qs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000802|",
+              "WhenOpened": "2025-07-20T19:59:58.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
