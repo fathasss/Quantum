@@ -6,10 +6,6 @@
     open Microsoft.Quantum.Math;
     open Microsoft.Quantum.Convert;
 
-    @EntryPoint()
-    operation HelloQ() : Unit {
-        Message("Hello quantum world!");
-    }
 
     operation Similation() : Result[] {
         use qubits = Qubit[11];
@@ -21,7 +17,6 @@
         for i in 1..3 {
             CNOT(qubits[i-1], qubits[i]);
         }
-
 
         //Faz dönüşümleri
         Rz(0.25 * PI(), qubits[4]);
