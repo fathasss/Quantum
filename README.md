@@ -19,7 +19,7 @@ git clone https://github.com/fathasss/Quantum.git
 cd Quantum
 ```
 
-### Her bir proje klasörü kendi bağımsız Q# uygulamasıdır. Örneğin:
+Her bir proje klasörü kendi bağımsız Q# uygulamasıdır. Örneğin:
 
 ```bash
 cd GroverAlgorithm
@@ -27,3 +27,25 @@ dotnet run
 ```
 
 Visual Studio Code QDK extension yüklü ise Run,Histogram,Estimate,Circuit ile her bir proje ayrı ayrı çalıştırılabilir.
+
+## 📁 Proje Yapısı (Quantum)
+Quantum/
+├── DeutscheJozsa/
+│   ├── Program.qs
+│   ├── xyz...
+├── GroverSearch/
+│   ├── Program.qs
+│   ├── ...
+├── QFT/
+│   ├── ...
+└── README.md
+
+
+## 🎯 Hedef
+
+Bu proje, kuantum algoritmalarını deneyerek:
+- Kuantum devreleri oluşturmak,
+- Q# programlamayı öğrenmek,
+- Simülasyonlarla sonuçların olasılık dağılımını analiz etmek
+
+amaçlarını taşımaktadır.
