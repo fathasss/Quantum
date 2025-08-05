@@ -17,3 +17,12 @@ Bu repo, **Q#** dili kullanarak geliştirilen çeşitli kuantum algoritmaların�
 ```bash
 git clone https://github.com/fathasss/Quantum.git
 cd Quantum
+```
+
+### Her bir proje klasörü kendi bağımsız Q# uygulamasıdır. Örneğin:
+
+```bash
+cd GroverAlgorithm
+dotnet run
+```
+
