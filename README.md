@@ -1,6 +1,6 @@
 # 📡 Quantum Algorithms in Q#
 
-Bu repo, **Q#** dili kullanarak geliştirilen çeşitli kuantum algoritmalarını içerir. Proje kapsamında Grover, Deutsch-Jozsa, Quantum Fourier Transform ve diğer temel algoritmaların uygulamaları yer almaktadır.
+Bu repo, Q# dili ile geliştirilen çeşitli kuantum algoritmalarını içerir. Proje kapsamında Grover, Deutsch-Jozsa, Quantum Fourier Transform (QFT) gibi temel kuantum algoritmalarının örnekleri yer almakta olup, Q# öğrenmek isteyenler için pratik bir kaynak sunar.
 
 ## 🚀 Başlangıç
 
