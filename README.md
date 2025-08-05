@@ -26,3 +26,4 @@ cd GroverAlgorithm
 dotnet run
 ```
 
+Visual Studio Code QDK extension yüklü ise Run,Histogram,Estimate,Circuit ile her bir proje ayrı ayrı çalıştırılabilir.
